@@ -1,0 +1,18 @@
+# Java build files
+*.class
+bin/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Operating system files
+.DS_Store
+Thumbs.db
